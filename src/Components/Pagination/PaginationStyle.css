@@ -1,0 +1,13 @@
+.MuiPaginationItem-rounded {
+    border-radius: 0px !important;
+    font-size: 25px !important;
+}
+
+.MuiPagination-ul li {
+    padding: 10px !important;
+}
+
+.Mui-selected, .MuiPaginationItem-page:hover{
+    background: black !important;
+    color: white !important;
+}
